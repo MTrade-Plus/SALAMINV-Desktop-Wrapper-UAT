@@ -1,0 +1,1 @@
+# SALAMINV-Desktop-Wrapper-UAT
